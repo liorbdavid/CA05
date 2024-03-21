@@ -15,8 +15,7 @@ The code begins by setting up the data source and preparing the content. Next, i
 * StandardScaler from sklearn.preprocessing
 
 ## Data Set:
-The dataset is a small sub-set of the data extracted from the UCI Machine Learning Repository, IMDb's data set. The data set contains 30 movies, including data for each movie across seven genres and their IMDB ratings. The path for the data source: "https://github.com/ArinB/MSBA-CA-
-Data/raw/main/CA05/movies_recommendation_data.csv".
+The dataset is a small sub-set of the data extracted from the UCI Machine Learning Repository, IMDb's data set. The data set contains 30 movies, including data for each movie across seven genres and their IMDB ratings. The path for the data source: "https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv".
 
 ## Instructions:
 Download the code file and run all in order. The Jupyter Notebook contains the entire code and logic for the decision tree classifier, as well as answers for the questions. Before running the program make sure you download the required package and import the needed libraries.
